@@ -1,0 +1,1745 @@
+[
+  {
+    "id": 1,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Aunty Lou"
+    ],
+    "pred_entities": [
+      "Aunty Lou",
+      "American soldier"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.577,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Aunty Lou\",\n        \"American soldier\"\n    ]\n}"
+  },
+  {
+    "id": 2,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Shawn Phelan",
+      "Derek",
+      "Yogurt"
+    ],
+    "pred_entities": [
+      "Shawn Phelan",
+      "Derek",
+      "Yogurt"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.783,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Shawn Phelan\",\n        \"Derek\",\n        \"Yogurt\"\n    ]\n}"
+  },
+  {
+    "id": 3,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Gheorghe Muresan",
+      "Billy Crystal"
+    ],
+    "pred_entities": [
+      "Gheorghe Muresan",
+      "Billy Crystal"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.709,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Gheorghe Muresan\",\n        \"Billy Crystal\"\n    ]\n}"
+  },
+  {
+    "id": 4,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Renoir",
+      "Jean Gabin"
+    ],
+    "pred_entities": [
+      "Jean Gabin",
+      "Renoir",
+      "the Moulin Rouge",
+      "the Cancan",
+      "the washer-girl"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.951,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n\"Jean Gabin\",\n\"Renoir\",\n\"the Moulin Rouge\",\n\"the Cancan\",\n\"the washer-girl\"\n]\n}"
+  },
+  {
+    "id": 5,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Alexandra Paul"
+    ],
+    "pred_entities": [
+      "Alexandra Paul",
+      "The little girl"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.636,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Alexandra Paul\",\n        \"The little girl\"\n    ]\n}"
+  },
+  {
+    "id": 6,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "positive",
+    "pred_score": 0.7,
+    "gold_entities": [
+      "Van Damme"
+    ],
+    "pred_entities": [
+      "Van Damme"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.46,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.7,\n    \"entities\": [\n        \"Van Damme\"\n    ]\n}"
+  },
+  {
+    "id": 7,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Mike Myers"
+    ],
+    "pred_entities": [
+      "Mike Myers",
+      "children"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.457,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"Mike Myers\",\n        \"children\"\n    ]\n}"
+  },
+  {
+    "id": 8,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Bob Knickerbocker"
+    ],
+    "pred_entities": [
+      "Bob Knickerbocker"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.487,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Bob Knickerbocker\"\n    ]\n}"
+  },
+  {
+    "id": 9,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Penelope Ann Miller",
+      "Ann-Margaret"
+    ],
+    "pred_entities": [
+      "Penelope Ann Miller",
+      "Ann-Margaret"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.673,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Penelope Ann Miller\",\n        \"Ann-Margaret\"\n    ]\n}"
+  },
+  {
+    "id": 10,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.25,
+    "gold_entities": [
+      "H.G. Lewis",
+      "Henny Youngman"
+    ],
+    "pred_entities": [
+      "Henny Youngman",
+      "Henny"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.78,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.25,\n    \"entities\": [\n        \"Henny Youngman\",\n        \"Henny\"\n    ]\n}"
+  },
+  {
+    "id": 11,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Brian DePalma"
+    ],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.155,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 12,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [
+      "Alexei Sayle"
+    ],
+    "pred_entities": [
+      "Alexei Sayle"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.413,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.3,\n\"entities\": [\n\"Alexei Sayle\"\n]\n}"
+  },
+  {
+    "id": 13,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Raab Himself",
+      "Brandon Dicamillo"
+    ],
+    "pred_entities": [
+      "Raab",
+      "Brandon Dicamillo"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.833,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Raab\",\n        \"Brandon Dicamillo\"\n    ]\n}"
+  },
+  {
+    "id": 14,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Rachel Leigh Cook"
+    ],
+    "pred_entities": [
+      "Rachel Leigh Cook"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.449,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Rachel Leigh Cook\"\n    ]\n}"
+  },
+  {
+    "id": 15,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.292,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 16,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.167,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 17,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Ingvar E. Sigurdsson",
+      "Baltasar Kormákur",
+      "Bjorn Jorundur"
+    ],
+    "pred_entities": [
+      "Ingvar E. Sigurdsson",
+      "Baltasar Kormákur",
+      "Bjorn Jorundur"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.459,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Ingvar E. Sigurdsson\",\n        \"Baltasar Kormákur\",\n        \"Bjorn Jorundur\"\n    ]\n}"
+  },
+  {
+    "id": 18,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Glenn Close",
+      "Christopher Walken"
+    ],
+    "pred_entities": [
+      "Glenn Close",
+      "Christopher Walken",
+      "7",
+      "8"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.027,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Glenn Close\",\n        \"Christopher Walken\",\n        \"7\",\n        \"8\"\n    ]\n}"
+  },
+  {
+    "id": 19,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [],
+    "pred_entities": [
+      "Razor Blade Smile",
+      "Nattens engel"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.948,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": [\n        \"Razor Blade Smile\",\n        \"Nattens engel\"\n    ]\n}"
+  },
+  {
+    "id": 20,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [
+      "Meg Ryan"
+    ],
+    "pred_entities": [
+      "Meg Ryan"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.589,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": [\n        \"Meg Ryan\"\n    ]\n}"
+  },
+  {
+    "id": 21,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Sidney Poitier",
+      "John Cassavetes"
+    ],
+    "pred_entities": [
+      "Sidney Poitier",
+      "John Cassavetes"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.645,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n\"Sidney Poitier\",\n\"John Cassavetes\"\n]\n}"
+  },
+  {
+    "id": 22,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Gary Busey"
+    ],
+    "pred_entities": [
+      "Gary Busey"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.575,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Gary Busey\"\n    ]\n}"
+  },
+  {
+    "id": 23,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Donald Sutherland"
+    ],
+    "pred_entities": [
+      "Donald Sutherland"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.634,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"Donald Sutherland\"\n    ]\n}"
+  },
+  {
+    "id": 24,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.223,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 25,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Frankie Muniz",
+      "Marty Wolfe"
+    ],
+    "pred_entities": [
+      "Frankie Muniz",
+      "Marty Wolfe"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.927,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Frankie Muniz\",\n        \"Marty Wolfe\"\n    ]\n}"
+  },
+  {
+    "id": 26,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "positive",
+    "pred_score": 0.45,
+    "gold_entities": [],
+    "pred_entities": [
+      "Rhino"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.51,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.45,\n    \"entities\": [\n        \"Rhino\"\n    ]\n}"
+  },
+  {
+    "id": 27,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Commander Cody"
+    ],
+    "pred_entities": [
+      "Commander Cody"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.488,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.1,\n\"entities\": [\n    \"Commander Cody\"\n]\n}"
+  },
+  {
+    "id": 28,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.9,
+    "gold_entities": [],
+    "pred_entities": [
+      "cast",
+      "acting",
+      "music",
+      "characters",
+      "stories",
+      "personalities",
+      "movie",
+      "great movie"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.524,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.9,\n    \"entities\": [\n        \"cast\",\n        \"acting\",\n        \"music\",\n        \"characters\",\n        \"stories\",\n        \"personalities\",\n        \"movie\",\n        \"great movie\"\n    ]\n}"
+  },
+  {
+    "id": 29,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [
+      "Mr Lynch",
+      "Polanski"
+    ],
+    "pred_entities": [
+      "Mr Lynch",
+      "Polanski"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.833,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": [\n        \"Mr Lynch\",\n        \"Polanski\"\n    ]\n}"
+  },
+  {
+    "id": 30,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Joe",
+      "Jean",
+      "Bryan Brown"
+    ],
+    "pred_entities": [
+      "Joe",
+      "Jean",
+      "Bryan Brown"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.852,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Joe\",\n        \"Jean\",\n        \"Bryan Brown\"\n    ]\n}"
+  },
+  {
+    "id": 31,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [
+      "Andrew McCarthy"
+    ],
+    "pred_entities": [
+      "Andrew McCarthy"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.613,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": [\n        \"Andrew McCarthy\"\n    ]\n}"
+  },
+  {
+    "id": 32,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "John Denver"
+    ],
+    "pred_entities": [
+      "John Denver",
+      "reverend",
+      "John Denver",
+      "pastor"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.213,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"John Denver\",\n        \"reverend\",\n        \"John Denver\",\n        \"pastor\"\n    ]\n}"
+  },
+  {
+    "id": 33,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Pauly Shore"
+    ],
+    "pred_entities": [
+      "Pauly Shore"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.674,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Pauly Shore\"\n    ]\n}"
+  },
+  {
+    "id": 34,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [
+      "Ralph Fiennes",
+      "Liam Neeson"
+    ],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.338,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 35,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [
+      "actor"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.544,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"actor\"\n    ]\n}"
+  },
+  {
+    "id": 36,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Joanne Whalley"
+    ],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.214,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 37,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.75,
+    "gold_entities": [
+      "Dolemite",
+      "Queen Bee",
+      "Willie Green",
+      "Rudy Ray Moore"
+    ],
+    "pred_entities": [
+      "Dolemite",
+      "Queen Bee",
+      "Willie Green"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.916,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.75,\n\"entities\": [\n    \"Dolemite\",\n    \"Queen Bee\",\n    \"Willie Green\"\n]\n}"
+  },
+  {
+    "id": 38,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "The Stepford Wives"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.617,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"The Stepford Wives\"\n    ]\n}"
+  },
+  {
+    "id": 39,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.229,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 40,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.35,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.374,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.35,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 41,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Jeff Fahey",
+      "Linda Hoffman"
+    ],
+    "pred_entities": [
+      "Jeff Fahey",
+      "Linda Hoffman"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.834,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Jeff Fahey\",\n        \"Linda Hoffman\"\n    ]\n}"
+  },
+  {
+    "id": 42,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Barney",
+      "Bolo Yeung"
+    ],
+    "pred_entities": [
+      "Bolo Yeung",
+      "the Karate kid"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.664,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.4,\n\"entities\": [\n\"Bolo Yeung\",\n\"the Karate kid\"\n]\n}"
+  },
+  {
+    "id": 43,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Sophie Marceau",
+      "Frederic"
+    ],
+    "pred_entities": [
+      "Sophie Marceau",
+      "Frederic"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.904,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Sophie Marceau\",\n        \"Frederic\"\n    ]\n}"
+  },
+  {
+    "id": 44,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "series"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.461,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"series\"\n    ]\n}"
+  },
+  {
+    "id": 45,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.338,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 46,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [
+      "Reeves",
+      "Cameron Diaz"
+    ],
+    "pred_entities": [
+      "Reeves",
+      "Cameron Diaz"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.711,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": [\n        \"Reeves\",\n        \"Cameron Diaz\"\n    ]\n}"
+  },
+  {
+    "id": 47,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Emma Thompson",
+      "Alan Rickman"
+    ],
+    "pred_entities": [
+      "Emma Thompson",
+      "Alan Rickman"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.839,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Emma Thompson\",\n        \"Alan Rickman\"\n    ]\n}"
+  },
+  {
+    "id": 48,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.33,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 49,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Sjöström",
+      "Bergman",
+      "Isak Borg"
+    ],
+    "pred_entities": [
+      "Sjöström",
+      "Bergman",
+      "Borg"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.112,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Sjöström\",\n        \"Bergman\",\n        \"Borg\"\n    ]\n}"
+  },
+  {
+    "id": 50,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Lars Bom"
+    ],
+    "pred_entities": [
+      "Lars Bom"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.616,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Lars Bom\"\n    ]\n}"
+  },
+  {
+    "id": 51,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.322,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 52,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Randolph Scott",
+      "De Toth"
+    ],
+    "pred_entities": [
+      "Randolph Scott",
+      "De Toth"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.813,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Randolph Scott\",\n        \"De Toth\"\n    ]\n}"
+  },
+  {
+    "id": 53,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Daisy Eagan"
+    ],
+    "pred_entities": [
+      "Daisy Eagan"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.496,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.4,\n\"entities\": [\n    \"Daisy Eagan\"\n]\n}"
+  },
+  {
+    "id": 54,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.192,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 55,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [
+      "Arnold"
+    ],
+    "pred_entities": [
+      "Arnold"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.561,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": [\n        \"Arnold\"\n    ]\n}"
+  },
+  {
+    "id": 56,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "John",
+      "Carolyn",
+      "Portia de Rossi",
+      "Jacqueline Bisset"
+    ],
+    "pred_entities": [
+      "John",
+      "Carolyn",
+      "Portia de Rossi",
+      "Jacqueline Bisset"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.258,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"John\",\n        \"Carolyn\",\n        \"Portia de Rossi\",\n        \"Jacqueline Bisset\"\n    ]\n}"
+  },
+  {
+    "id": 57,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.3,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.335,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.3,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 58,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Jonathan Silverman"
+    ],
+    "pred_entities": [
+      "Jonathan Silver"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.556,
+    "raw_output": "{\n\n  \"sentiment\": \"positive\",\n  \"sentiment_score\": 0.85,\n  \"entities\": [\n    \"Jonathan Silver\"\n  ]\n}"
+  },
+  {
+    "id": 59,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Tim Curry"
+    ],
+    "pred_entities": [
+      "Tim Curry"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.582,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"Tim Curry\"\n    ]\n}"
+  },
+  {
+    "id": 60,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Phoolan Devi"
+    ],
+    "pred_entities": [
+      "Phoolan Devi"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.615,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Phoolan Devi\"\n    ]\n}"
+  },
+  {
+    "id": 61,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Vince",
+      "Pesci"
+    ],
+    "pred_entities": [
+      "Pesci",
+      "Don"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.813,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Pesci\",\n        \"Don\"\n    ]\n}"
+  },
+  {
+    "id": 62,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "music score",
+      "mutiny scenes"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.543,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\"music score\", \"mutiny scenes\"]\n}"
+  },
+  {
+    "id": 63,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "Good characters",
+      "Good actors",
+      "The Spanish Prisoner",
+      "The House of Games",
+      "No Way Out"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.387,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n    \"Good characters\",\n    \"Good actors\",\n    \"The Spanish Prisoner\",\n    \"The House of Games\",\n    \"No Way Out\"\n]\n}"
+  },
+  {
+    "id": 64,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [
+      "The Granny"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.593,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"The Granny\"\n    ]\n}"
+  },
+  {
+    "id": 65,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Pelagia",
+      "Captain Corelli"
+    ],
+    "pred_entities": [
+      "Pelagia",
+      "Captain Corelli"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.751,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Pelagia\",\n        \"Captain Corelli\"\n    ]\n}"
+  },
+  {
+    "id": 66,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "Tommy Boy",
+      "Black Sheep"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.832,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Tommy Boy\",\n        \"Black Sheep\"\n    ]\n}"
+  },
+  {
+    "id": 67,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "Nuovo Cinema Paradiso"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.713,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Nuovo Cinema Paradiso\"\n    ]\n}"
+  },
+  {
+    "id": 68,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.9,
+    "gold_entities": [
+      "Burt Reynolds",
+      "Brian Keith",
+      "Bernie Casey"
+    ],
+    "pred_entities": [
+      "Burt Reynolds",
+      "Brian Keith",
+      "Bernie Casey"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.713,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.9,\n\"entities\": [\n\"Burt Reynolds\",\n\"Brian Keith\",\n\"Bernie Casey\"\n]\n}"
+  },
+  {
+    "id": 69,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Michael J Fox",
+      "Melio",
+      "Blaylak",
+      "Leon",
+      "Adam"
+    ],
+    "pred_entities": [
+      "Michael J Fox",
+      "Melio",
+      "Blaylak",
+      "Leon",
+      "Adam"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.344,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Michael J Fox\",\n        \"Melio\",\n        \"Blaylak\",\n        \"Leon\",\n        \"Adam\"\n    ]\n}"
+  },
+  {
+    "id": 70,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "eastwood"
+    ],
+    "pred_entities": [
+      "eastwood",
+      "clint"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.518,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n    \"eastwood\",\n    \"clint\"\n]\n}"
+  },
+  {
+    "id": 71,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Nusrat Fateh ALi Khan",
+      "Phoolan"
+    ],
+    "pred_entities": [
+      "Nusrat Fateh Ali Khan",
+      "Phoolan"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.993,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Nusrat Fateh Ali Khan\",\n        \"Phoolan\"\n    ]\n}"
+  },
+  {
+    "id": 72,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Sean Penn",
+      "Kevin Spacey",
+      "Chazz Palminteri",
+      "Mamet"
+    ],
+    "pred_entities": [
+      "Sean Penn",
+      "Kevin Spacey",
+      "Chazz Palminteri"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.05,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": [\n        \"Sean Penn\",\n        \"Kevin Spacey\",\n        \"Chazz Palminteri\"\n    ]\n}"
+  },
+  {
+    "id": 73,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Michael Cimino",
+      "Vilmos Zsigmond"
+    ],
+    "pred_entities": [
+      "Michael Cimino",
+      "Vilmos Zsigmond"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.988,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Michael Cimino\",\n        \"Vilmos Zsigmond\"\n    ]\n}"
+  },
+  {
+    "id": 74,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "David Duchovny",
+      "Minnie driver",
+      "James Belushi",
+      "Bob",
+      "Grace"
+    ],
+    "pred_entities": [
+      "David Duchovny",
+      "Minnie Driver",
+      "James Belushi",
+      "Bob",
+      "Grace"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.367,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"David Duchovny\",\n        \"Minnie Driver\",\n        \"James Belushi\",\n        \"Bob\",\n        \"Grace\"\n    ]\n}"
+  },
+  {
+    "id": 75,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.65,
+    "gold_entities": [],
+    "pred_entities": [
+      "People"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.56,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.65,\n    \"entities\": [\n        \"People\"\n    ]\n}"
+  },
+  {
+    "id": 76,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Andy Kaufman",
+      "Bernadette Peters"
+    ],
+    "pred_entities": [
+      "Bernadette Peters",
+      "Andrew Kaufman"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.652,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n\"Bernadette Peters\",\n\"Andrew Kaufman\"\n]\n}"
+  },
+  {
+    "id": 77,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Randolph Scott"
+    ],
+    "pred_entities": [
+      "Randolph Scott"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.617,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Randolph Scott\"\n    ]\n}"
+  },
+  {
+    "id": 78,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.45,
+    "gold_entities": [
+      "Gurmit Singh"
+    ],
+    "pred_entities": [
+      "Chiken Rice",
+      "Gurmit Singh"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.854,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.45,\n    \"entities\": [\n        \"Chiken Rice\",\n        \"Gurmit Singh\"\n    ]\n}"
+  },
+  {
+    "id": 79,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.177,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 80,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Madonna"
+    ],
+    "pred_entities": [
+      "Madonna"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.579,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Madonna\"\n    ]\n}"
+  },
+  {
+    "id": 81,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Cary Elwes",
+      "Robin Hood",
+      "Sheriff of Nottingham"
+    ],
+    "pred_entities": [
+      "Cary Elwes",
+      "Robin Hood",
+      "Sheriff of Nottingham",
+      "Robin"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.252,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Cary Elwes\",\n        \"Robin Hood\",\n        \"Sheriff of Nottingham\",\n        \"Robin\"\n    ]\n}"
+  },
+  {
+    "id": 82,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.65,
+    "gold_entities": [
+      "Hilary Swank"
+    ],
+    "pred_entities": [
+      "Hilary Swank"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.578,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.65,\n    \"entities\": [\n        \"Hilary Swank\"\n    ]\n}"
+  },
+  {
+    "id": 83,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.0,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.194,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.0,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 84,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.38,
+    "gold_entities": [
+      "Michael Cain",
+      "Mickey Rooney",
+      "Lizabeth Scott",
+      "Lionel Stander",
+      "Nadia Cassini"
+    ],
+    "pred_entities": [
+      "Michael Cain",
+      "Mickey Rooney",
+      "Lizabeth Scott",
+      "Lionel Stander",
+      "Nadia Cassini"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.091,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.38,\n\"entities\": [\n\"Michael Cain\",\n\"Mickey Rooney\",\n\"Lizabeth Scott\",\n\"Lionel Stander\",\n\"Nadia Cassini\"\n]\n}"
+  },
+  {
+    "id": 85,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.05,
+    "gold_entities": [
+      "Michael Ironside"
+    ],
+    "pred_entities": [
+      "Michael Ironside"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.622,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.05,\n    \"entities\": [\n        \"Michael Ironside\"\n    ]\n}"
+  },
+  {
+    "id": 86,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "negative",
+    "pred_score": 0.45,
+    "gold_entities": [
+      "John Keem"
+    ],
+    "pred_entities": [
+      "John Keem"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.614,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.45,\n    \"entities\": [\n        \"John Keem\"\n    ]\n}"
+  },
+  {
+    "id": 87,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Natasha Henstridge"
+    ],
+    "pred_entities": [
+      "Natasha Henstridge"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.526,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Natasha Henstridge\"\n    ]\n}"
+  },
+  {
+    "id": 88,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [
+      "Eric"
+    ],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.299,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 89,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "Kevin Spacey",
+      "John Boorman"
+    ],
+    "pred_entities": [
+      "Kevin Spacey",
+      "John Boorman"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.772,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.4,\n    \"entities\": [\n        \"Kevin Spacey\",\n        \"John Boorman\"\n    ]\n}"
+  },
+  {
+    "id": 90,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "negative",
+    "pred_score": 0.4,
+    "gold_entities": [
+      "John Carpenter"
+    ],
+    "pred_entities": [
+      "John Carpenter",
+      "In The Mouth Of Madness",
+      "John Carpenter",
+      "In The Mouth Of Madness"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 2.123,
+    "raw_output": "{\n\"sentiment\": \"negative\",\n\"sentiment_score\": 0.4,\n\"entities\": [\n    \"John Carpenter\",\n    \"In The Mouth Of Madness\",\n    \"John Carpenter\",\n    \"In The Mouth Of Madness\"\n]\n}"
+  },
+  {
+    "id": 91,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.293,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 92,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "Traffic"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.531,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Traffic\"\n    ]\n}"
+  },
+  {
+    "id": 93,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Valentino",
+      "Stan Laurel"
+    ],
+    "pred_entities": [
+      "Stan Laurel"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.565,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Stan Laurel\"\n    ]\n}"
+  },
+  {
+    "id": 94,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "Olivier",
+      "Branagh",
+      "Derek Jacobi"
+    ],
+    "pred_entities": [
+      "Derek Jacobi"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.625,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"Derek Jacobi\"\n    ]\n}"
+  },
+  {
+    "id": 95,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.287,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 96,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [
+      "John Wayne"
+    ],
+    "pred_entities": [
+      "John Wayne"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.552,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"John Wayne\"\n    ]\n}"
+  },
+  {
+    "id": 97,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "The Performing Arts",
+      "students",
+      "Canteen"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.804,
+    "raw_output": "{\n\"sentiment\": \"positive\",\n\"sentiment_score\": 0.85,\n\"entities\": [\n    \"The Performing Arts\",\n    \"students\",\n    \"Canteen\"\n]\n}"
+  },
+  {
+    "id": 98,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.162,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 99,
+    "gold_sentiment": "negative",
+    "pred_sentiment": "negative",
+    "pred_score": 0.1,
+    "gold_entities": [],
+    "pred_entities": [],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.169,
+    "raw_output": "{\n    \"sentiment\": \"negative\",\n    \"sentiment_score\": 0.1,\n    \"entities\": []\n}"
+  },
+  {
+    "id": 100,
+    "gold_sentiment": "positive",
+    "pred_sentiment": "positive",
+    "pred_score": 0.85,
+    "gold_entities": [],
+    "pred_entities": [
+      "midget",
+      "horror fan",
+      "cast"
+    ],
+    "raw_json_ok": true,
+    "cleaned_json_ok": true,
+    "schema_ok": true,
+    "latency_sec": 1.789,
+    "raw_output": "{\n    \"sentiment\": \"positive\",\n    \"sentiment_score\": 0.85,\n    \"entities\": [\n        \"midget\",\n        \"horror fan\",\n        \"cast\"\n    ]\n}"
+  }
+]

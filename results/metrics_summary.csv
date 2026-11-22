@@ -1,0 +1,3 @@
+setting,samples,raw_json_parse_rate,cleaned_json_parse_rate,schema_validity_rate,sentiment_accuracy,sentiment_macro_f1,entity_precision,entity_recall,entity_f1,avg_latency_sec
+Prompt-Only,100,99.0,99.0,99.0,93.0,93.45,67.48,86.61,75.86,1.25
+Schema-Constrained,100,100.0,100.0,100.0,94.0,94.0,67.07,86.61,75.6,1.662
